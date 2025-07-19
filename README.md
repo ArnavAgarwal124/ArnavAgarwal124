@@ -1,5 +1,3 @@
-<!-- Profile Banner -->
-<img src="https://ArnavAgarwal124.github.io/assets/banner-devops-cybersecurity.png" alt="Banner" width="100%"/>
 
 <h1 align="center">Hi 👋, I'm Arnav Agarwal</h1>
 
